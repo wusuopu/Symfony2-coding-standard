@@ -100,4 +100,6 @@
     <rule ref="Generic.WhiteSpace.ScopeIndent"/>
     <!-- there MUST be one space between a operator -->
     <rule ref="Squiz.WhiteSpace.OperatorSpacing"/>
+
+    <rule ref="Generic.NamingConventions.CamelCapsFunctionName"/>
 </ruleset>
